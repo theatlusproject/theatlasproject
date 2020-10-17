@@ -1,8 +1,9 @@
-Title: Stewardship - A tool for Generosity
+Title: Stewardship - A Tool for Generosity
 Authors: Julius J
-Date: 2020-05-01 12:00
+Date: 2020-05-18 12:00
 Category: Resources
-Summary: Stewardship is a gift for God to help his people manage the money he has given us. Are you a part of the quarter of Americans who couldn’t afford an emergency expense greater than $400? Or would you have to borrow the money volunteering yourself for slavery? God commands us to live generously, and we limit ourselves through impatience, greed, and irresponsibility.
+Summary: Stewardship is a gift for God to help his people manage the money He has given us. Are you a part of the quarter of Americans who couldn’t afford an emergency expense greater than $400? Or would you have to borrow the money volunteering yourself for slavery? God commands us to live generously, and we limit ourselves through impatience, greed, and irresponsibility.
+Slug: stewardship-generosity
 
 Are you a part of the quarter of Americans who couldn’t afford an emergency expense greater than $400? Or would you have to borrow the money volunteering yourself for slavery? God commands us to live generously, and we limit ourselves through impatience, greed, and irresponsibility. 
 
@@ -28,7 +29,7 @@ Living a generous life takes intentionality and preparation. Without the proper 
 
 It is easy to get caught up in managing our treasures without recognizing the ultimate goal. The reason stewardship is essential is that it fosters a heart of generosity -- it’s not the secret to wealth.
 
-The purpose of this writing isn’t to instill fear but to spark an urgency to serve God using the financial resources he has entrusted to you. 
+The purpose of this writing isn’t to instill fear but to spark an urgency to serve God using the financial resources He has entrusted to you. 
 
 
 
@@ -54,27 +55,25 @@ In the first century church, we see that the people of their time sold their pro
 
 1. God’s committed to our success
 
-God would never instruct us to do anything that would be detrimental to our eternity with him. He plans to prosper us and honor his followers at the proper time. Below are a few scriptures that remind us of his promises:
+    God would never instruct us to do anything that would be detrimental to our eternity with him. He plans to prosper us and honor his followers at the proper time. Below are a few scriptures that remind us of his promises:
+
+    *   [1 John 5:14-15](https://www.biblegateway.com/passage/?search=1+John+5%3A14-15&version=ESV)
+    *   [Philippians 4:6-7](https://www.biblegateway.com/passage/?search=Philippians+4%3A6-7&version=ESV)
+    *   [Romans 8:28](https://www.biblegateway.com/passage/?search=Romans%208:27-29&version=ESV#en-ESV-28129)
+    *   [Matthew 5:5](https://www.biblegateway.com/passage/?search=Matthew+5%3A5&version=NIV)
+
+    We are giving up resources that have a clear benefit on earth. In exchange, we have the opportunity to share in the example of sacrifice God has set before us.   
 
 
 
-*   [1 John 5:14-15](https://www.biblegateway.com/passage/?search=1+John+5%3A14-15&version=ESV)
-*   [Philippians 4:6-7](https://www.biblegateway.com/passage/?search=Philippians+4%3A6-7&version=ESV)
-*   [Romans 8:28](https://www.biblegateway.com/passage/?search=Romans%208:27-29&version=ESV#en-ESV-28129)
-*   [Matthew 5:5](https://www.biblegateway.com/passage/?search=Matthew+5%3A5&version=NIV)
-
-We are giving up resources that have a clear benefit on earth. In exchange, we have the opportunity to share in the example of sacrifice God has set before us.   
-
-
-
-2. Accessing where your treasure is 
+2. Assessing where your treasure is 
 
     For where your treasure is, there your heart will be also. - Matthew 6:21 - NIV
 
 
-A common analogy to put Matthew 6:21 in perspective is investing in a stock. Let's say we invest 10% of our income into Amazon(AMZN). Naturally, we would be very invested in the success of Amazon. How much more ownership would we take if we invested 10% of our income to a local church where we would have much more influence over the eternity of our neighbors, friends, and family?
+    A common analogy to put Matthew 6:21 in perspective is investing in a stock. Let's say we invest 10% of our income into Amazon(AMZN). Naturally, we would be very invested in the success of Amazon. How much more ownership would we take if we invested 10% of our income to a local church where we would have much more influence over the eternity of our neighbors, friends, and family?
 
-The New Testament doesn’t mention tithing, so please don’t feel pressured to tithe.  Jesus does teach about surrendering everything and giving generously and doing so willingly, without complaining. God continually shapes our hearts and minds if we allow him to. I implore you to pray to God for such a heart, and I’m confident he will not disappoint. 
+    The New Testament doesn’t mention tithing, so please don’t feel pressured to tithe.  Jesus does teach about surrendering everything and giving generously and doing so willingly, without complaining. God continually shapes our hearts and minds if we allow him to. I implore you to pray to God for such a heart, and I’m confident he will not disappoint. 
 
 
 
@@ -88,9 +87,14 @@ Whether you are unsure of who God is or been a follower of Jesus for decades, ou
 
 **Next Steps:**
 
-There are so many scriptures on the use of time, talents, and treasure. I have included a few that stand out to me below. To make Jesus Lord of your finances, it requires understanding how he views money and seeking advice from those he has given the ability to manage his money well. 
+I have included a few additional scriptures on the use of time, talents, and treasure. To make Jesus Lord of your finances, it requires understanding how He views money and seeking advice from those He has given the ability to manage his money well. 
+
+*   [1 Peter 4:10](https://www.biblegateway.com/passage/?search=1+Peter+4%3A10&version=NIV)
+*   [Proverbs 30:25](https://www.biblegateway.com/passage/?search=Proverbs+30%3A25&version=NIV)
+*   [2 Corinthians 9:6-7](https://www.biblegateway.com/passage/?search=2+Corinthians+9%3A6-7&version=NIV)
+*   [Acts 20:35](https://www.biblegateway.com/passage/?search=Acts+20%3A35&version=NIV)
+*   [1 Timothy 6:17-19](https://www.biblegateway.com/passage/?search=1+Timothy+6%3A17-19&version=NIV)
 
 I look forward to us giving generously. 
 
 
-<!-- Docs to Markdown version 1.0β22 -->

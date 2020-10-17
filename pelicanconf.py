@@ -2,12 +2,15 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+#Note: the output directly needs to added seperately
+
 AUTHOR = 'The Atlas Project'
 SITENAME = 'The Atlas Project'
 SITEURL = 'https://theatlasproject.org'
 
 PATH = 'content'
 
+OUTPUT_PATH ='output/theatlusproject.github.io/'
 TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
