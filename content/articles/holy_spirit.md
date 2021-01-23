@@ -94,7 +94,7 @@ Continue studying the scripture, praying, reflecting, and loving until the day w
 
 ### Learn More:
 
-*   [Francis Chan: Understanding The Holy Spirit (Part 2)](https://www.youtube.com/watch?v=kkzCvx40oko&feature=youtu.be) (The Whole Series is really Good!)
+*   [Francis Chan: Understanding The Holy Spirit (Part 2)](https://www.youtube.com/watch?v=kkzCvx40oko&feature=youtu.be)
 *   [Bible Projext - Holy Spirit](https://bibleproject.com/learn/holy-spirit/)
 *   [How to Seek the Holy Spirit – John Piper](https://www.youtube.com/watch?v=xqgeT26BAnE&feature=youtu.be)
 *   [God's Holy Spirit: a back-story from the Joseph narrative](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1015-87582013000300003)
