@@ -1,8 +1,8 @@
 Title: Connecting with the Holy Spirit
 Authors: Julius J
-Date: 2020-10-23 12:00
+Date: 2021-01-23 12:00
 Category: Resources
-Summary: Have you considered why we pray, how we should pray, and what makes prayer effective? The bible has clear answers for these questions once we dig deeper.
+Summary: The Holy Spirit has so much to add to your life and the lives of others. Do we take the time to get to know Him?
 
 ### Why is the Holy Spirit Important
 
