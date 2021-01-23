@@ -40,7 +40,7 @@ THEME = 'themes/attila2'
 HOME_COVER = 'img/home-bg2.jpg'
 HEADER_COVER = 'img/home-bg2.jpg' #HEADER_COVER offically deprecated
 ARTICLES_PATHS = ['content/articles']
-STATIC_PATHS = ['img', 'pdf']
+STATIC_PATHS = ['img']
 PAGE_PATHS = ['pages']
 
 
